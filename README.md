@@ -15,9 +15,10 @@
 This GitHub repository contains CAD files, drawings and main assemblies for SUMEC MiniSumo robot.
 
 ## Contents
-- **main_mech**: Includes main 3D CAD files, versions of the SUMEC body, etc.
-- **assemblies**: Contains CAD assemblies with different mechanical and electrical components, we use Inventor
-- **drawings**: Contains 2D drawings and plots of CAD models
+- **3d_prindet**: Contains 3D CAD files which are meant to be 3d printed
+- **electronics**: Contains 3D CAD files of PCBs, motors and other alectronics parts
+- **fasteners**: Contains 3D CAD files of fastener, meant for use in assembassemblies
+- **machined**: Contains 3D CAD files and 2D drawings of machined parts
 
 ## Contributors
 **MECHANICS Repository Supervisor**:
