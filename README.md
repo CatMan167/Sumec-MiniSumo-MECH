@@ -26,7 +26,7 @@ This GitHub repository contains CAD files, drawings and main assemblies for SUME
 **Project Contributors**:
 - **Antonín Havlík** - Head Software Developer
 - **Šimon Šťastný** - Head Mechanical Designer and Developer
-- **Natani Šimáčková** - Software developer, head functions developer
+- **Roselyn Natani Šimáčková** - Software developer, head functions developer
 - **Lukáš Houdek** - Mechanical Designer and Developer, 3D Printing Expert
 - **Savva Popov** - Head Hardware Developer and PCB Designer
 
