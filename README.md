@@ -52,7 +52,7 @@ If you have any questions, suggestions, or issues regarding this project or repo
   - LinkedIn: [Savva Popov](https://www.linkedin.com/in/savva-popov/)
 - **Šimon Šťastný** - Head Mechanical Designer and Developer
   - Email: simon.ststn@gmail.com
-- **Natani Šimáčková** - Software Developer, Head functions developer
+- **Roselyn Natani Šimáčková** - Software Developer, Head functions developer
   - Email: [SIMACKOVA EMAIL]
 - **Lukáš Houdek** - Mechanical Designer and Developer, 3D Printing Expert
   - Email: [HOUDEK EMAIL]
